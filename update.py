@@ -114,11 +114,11 @@ def save_adblock_domains(all_domains):
         f.write('\n'.join(domains_txt))
 
     # 保存 conf 文件
-    with open('adblock-domains.conf', 'w', encoding='utf-8') as f:
+    with open('adblock.conf', 'w', encoding='utf-8') as f:
         f.write('\n'.join(domains_conf))
 
     print(f"已生成: adblock-domains.txt (共 {len(domains_txt)} 个域名)")
-    print(f"已生成: adblock-domains.conf (共 {len(domains_conf)} 条规则)")
+    print(f"已生成: adblock.conf (共 {len(domains_conf)} 条规则)")
 
 
 def update_china_domains():
