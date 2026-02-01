@@ -22,5 +22,5 @@ domain-set -name domestic -file /etc/smartdns/domain-set/china-domains.txt
 domain-rules /domain-set:domestic/ -nameserver domestic
 
 domain-set -name proxy -file /etc/smartdns/domain-set/proxy.txt
-domain-rules /domain-set:proxy/ -nameserver proxy -speed-check-mode none -no-cache
+domain-rules /domain-set:proxy/ -nameserver proxy -speed-check-mode none -no-cache -rr-ttl 3
 ```
