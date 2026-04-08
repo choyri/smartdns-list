@@ -317,6 +317,7 @@ ap.dongqiudi.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
+api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao1.com
 api-access.pangolin-sdk-toutiao2.com
@@ -902,6 +903,7 @@ mobclix.com
 mobfox.com
 mobgi.com
 mobile.da.mgtv.com
+mobile.events.data.microsoft.com
 mobilead.kuwo.cn
 mobileadtrading.com
 mobilelog.kugou.com
