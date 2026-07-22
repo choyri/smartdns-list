@@ -534,7 +534,6 @@ dh54wf.xyz
 diagnosis.ad.xiaomi.com
 dianjoy.com
 dianru.com
-dig.bdurl.net
 directrev.com
 disqusads.com
 dlogs.bwton.com
@@ -858,7 +857,6 @@ maysunmedia.com
 mazu.m.qq.com
 mbai.cn
 mbdlog.iqiyi.com
-mcs.zijieapi.com
 mdotm.com
 medialytics.com
 medialytics.io
