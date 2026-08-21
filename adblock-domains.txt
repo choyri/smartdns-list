@@ -680,7 +680,6 @@ log-api.pangolin-sdk-toutiao.com
 log-verify.dutils.com
 log-verify.hiaiabc.com
 log.ad.xiaomi.com
-log.aliyuncs.com
 log.popin.cc
 log.tagtic.cn
 logrcv.aiclk.com
