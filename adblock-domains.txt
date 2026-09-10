@@ -75,7 +75,6 @@ ad.shunchangzhixing.com
 ad.tencentmusic.com
 ad.toutiao.com
 ad.v3mh.com
-ad.weibo.com
 ad.winrar.com.cn
 ad.ximalaya.com
 ad.xunkids.com
@@ -129,6 +128,7 @@ adks.hpplay.cn
 adlink-api.huan.tv
 adlive.cn
 adlocus.com
+adlog.vivo.com.cn
 adm.funshion.com
 admaji.com
 admarket.mobi
@@ -147,6 +147,7 @@ adpro.cn
 adpush.cn
 adquan.com
 adreal.cn
+adreq.vivo.com.cn
 adriver.ru
 adroll.com
 ads-api-o.api.leiniao.com
@@ -280,8 +281,10 @@ adx.appsdk.com.cn
 adx.sogaha.cn
 adx.tuia.cn
 adxlog-adnet.vivo.com.cn
+adxlog.vivo.com.cn
 adxmi.com
 adxserver.ad.cmvideo.cn
+adxstatic.vivo.com.cn
 adyun.com
 adzerk.net
 aem.dentsuchina.cn
@@ -394,6 +397,7 @@ blismedia.com
 bloggerads.net
 bootpreload.uve.weibo.com
 branch.io
+brandadsstatic.vivo.com.cn
 brucelead.com
 bsdev.cn
 bshare.cn
@@ -501,6 +505,7 @@ doudouguo.com
 doumob.com
 dsp-x.jd.com
 dsp.fcbox.com
+dsplog-adnet.vivo.com.cn
 duanat.com
 duiba.com.cn
 dumedia.ru
@@ -613,7 +618,6 @@ iadctest.qwapi.com
 iadmoo.apple.com
 iadmusicmat.music.126.net
 iadsdk.apple.com
-iadworkbench.apple.com
 icast.cn
 ifs.tanx.com
 igexin.com
@@ -1026,6 +1030,7 @@ trace.aqyad.com
 tracelog-debug.aiclk.com
 tracelog-debug.qquanquan.com
 tracelog-debug.yunxish.com
+tracking-adnet.vivo.com.cn
 trafficjam.cn
 trafficjunky.com
 trafficjunky.net
