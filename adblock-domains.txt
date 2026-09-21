@@ -130,6 +130,7 @@ adlive.cn
 adlocus.com
 adlog.vivo.com.cn
 adm.funshion.com
+adm.zhangyuyidong.cn
 admaji.com
 admarket.mobi
 admarketing.yahoo.net
@@ -215,6 +216,7 @@ adsfs.heytapimage.com
 adsfs.oppomobile.com
 adslvfile.qq.com
 adsmart.konka.com
+adsmartget.datads.cn
 adsmind.gdtimg.com
 adsmind.ugdtimg.com
 adsmogo.com
@@ -489,6 +491,7 @@ datacollection.uve.weibo.com
 datouniao.com
 dc.sigmob.cn
 ddapp.cn
+de.ad.gameley.com
 dh54wf.xyz
 diagnosis.ad.xiaomi.com
 dianjoy.com
@@ -668,6 +671,7 @@ jimdo.com
 jisucn.com
 jizzads.com
 jmgehn.cn
+jp.ad.gameley.com
 jpush.cn
 juicyads.com
 jusha.com
@@ -782,6 +786,7 @@ mookie1.com
 mopub.com
 moquanad.com
 mores.toponad.com
+mpcfg.fancydsp.com
 mpush.cn
 ms.applovin.com
 ms.applvn.com
@@ -913,16 +918,20 @@ sape.ru
 scorecardresearch.com
 scupio.com
 sdk-cache.video.ptqy.gitv.tv
+sdk-track.66mobi.com
 sdk.1rtb.net
 sdk.ad.smaato.net
+sdk.adhuanxiao.com
 sdk.adx.adwangmai.com
 sdk.aqyad.com
 sdk.beizi.biz
 sdk.cferw.com
 sdk.e.qq.com
 sdk.hzsanjiaomao.com
+sdk.hzzfcm.com
 sdk.markmedia.com.cn
 sdk.mobads.adwangmai.com
+sdk.zhangyuyidong.cn
 sdkapi.cloooud.com
 sdkapp.uve.weibo.com
 sdkauth.hpplay.cn
@@ -930,6 +939,7 @@ sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdkconfig.play.aiseet.atianqi.com
 sdkconfig.video.qq.com
+sdklog.zhangyuyidong.cn
 sdkreport.e.qq.com
 sdktmp.hubcloud.com.cn
 sdownload.stargame.com
@@ -1135,6 +1145,7 @@ wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
+xadsmartget.adgain.cn
 xc.gdt.qq.com
 xcx.dcad01.com
 xcy8.com
