@@ -154,17 +154,16 @@ adreq.vivo.com.cn
 adriver.ru
 adroll.com
 ads-api-o.api.leiniao.com
-ads-api.tiktok.com
 ads-api.twitter.com
 ads-img-al.xhscdn.com
+ads-img-bak.xhscdn.com
 ads-img-qc.xhscdn.com
-ads-jp.tiktok.com
 ads-marketing-vivofs.vivo.com.cn
 ads-sdk-api.ranfenghd.com
-ads-sg.tiktok.com
 ads-shopping.shouqianba.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
+ads-vp5.xhscdn.com
 ads.95516.com
 ads.adfunlink.com
 ads.auctions.yahoo.com
@@ -182,7 +181,6 @@ ads.pubmatic.com
 ads.raidrive.com
 ads.servebom.com
 ads.service.kugou.com
-ads.tiktok.com
 ads.v3mh.com
 ads.youtube.com
 ads.zhinengxiyifang.cn
@@ -225,7 +223,6 @@ adsmogo.com
 adsmogo.org
 adsmoloco.com
 adsp.xunlei.com
-adspecs.yahoo.com
 adsrvr.org
 adstat.izuiyou.com
 adstats.tencentmusic.com
@@ -234,14 +231,12 @@ adstore-1252524079.file.myqcloud.com
 adstore-index-1252524079.file.myqcloud.com
 adstrategy.biz.weibo.com
 adstudio-assets.scdn.co
-adstudio.spotify.com
 adsunflower.com
 adsunion.com
 adsymptotic.com
 adtago.s3.amazonaws.com
 adtaily.com
 adtech.de
-adtech.yahooinc.com
 adtechjp.com
 adtechus.com
 adtrack.quark.cn
@@ -254,13 +249,7 @@ aduu.cn
 adv-api.shenshiads.com
 adv.sec.intl.miui.com
 adv.sec.miui.com
-advertising-api-eu.amazon.com
-advertising-api-fe.amazon.com
-advertising-api.amazon.com
-advertising.apple.com
 advertising.com
-advertising.yahoo.com
-advertising.yandex.ru
 advice-ads.s3.amazonaws.com
 adview.cn
 advmob.cn
@@ -391,7 +380,6 @@ biddingos.com
 biddingx.com
 bidtheatre.com
 bidvertiser.com
-bingads.microsoft.com
 biz.weibo.com
 bj-td-menta-01-callback.advlion.com
 bj.ad.track.66mobi.com
@@ -481,7 +469,6 @@ criteo.com
 criteo.net
 crosschannel.com
 csbew.com
-csjplatform.com
 ctrmi.com
 customer-security.online
 d.applovin.com
@@ -489,7 +476,6 @@ d.applvn.com
 da.anythinktech.com
 daoyoudao.com
 data.ads.oppomobile.com
-data.hicloud.com
 datacollection.uve.weibo.com
 datouniao.com
 dc.sigmob.cn
@@ -701,6 +687,7 @@ leadboltads.net
 leadboltapps.net
 leadboltmobile.net
 lenzmx.com
+lf-event-manager.oceanengine.com
 lf3-ad-union-sdk.pglstatp-toutiao.com
 lf6-ad-union-sdk.pglstatp-toutiao.com
 lftxali.fancyapi.com
@@ -1077,8 +1064,6 @@ umeng.com
 umtrack.com
 unimhk.com
 union-wifi.com
-union.baidu.cn
-union.baidu.com
 union001.com
 unionsy.com
 unityads.unity3d.com
