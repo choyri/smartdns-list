@@ -270,6 +270,7 @@ adx-strategy-api-cn.statisticslinks.com
 adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
 adx.adwangmai.com
+adx.anythinktech.com
 adx.appsdk.com.cn
 adx.sogaha.cn
 adx.tuia.cn
@@ -376,6 +377,7 @@ bepolite.eu
 bfshan.cn
 bgg.baidu.com
 bianxian.com
+bid.shanghailingye.cn
 biddingos.com
 biddingx.com
 bidtheatre.com
@@ -444,7 +446,10 @@ clickzs.com
 cloooud.com
 cloudmobi.net
 cmcore.com
+cn-api-sec.anythinktech.com
 cn-api.anythinktech.com
+cn-da.anythinktech.com
+cn-tk.anythinktech.com
 cnxad.com
 cnzz.com
 cnzzlink.com
@@ -474,6 +479,7 @@ customer-security.online
 d.applovin.com
 d.applvn.com
 da.anythinktech.com
+da.statisticslinks.com
 daoyoudao.com
 data.ads.oppomobile.com
 datacollection.uve.weibo.com
@@ -971,6 +977,7 @@ sms.ads.oppomobile.com
 social-touch.com
 somecoding.com
 sponsorpay.com
+ssapi.anythinktech.com
 ssp.cloooud.com
 stargame.com
 startapp.com
@@ -1028,6 +1035,7 @@ thoughtleadr.com
 tianmidian.com
 tiqcdn.com
 tk.anythinktech.com
+tk.statisticslinks.com
 tmead.y.qq.com
 tmeadcomm.y.qq.com
 touclick.com
