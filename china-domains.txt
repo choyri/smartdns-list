@@ -208,6 +208,7 @@ cmbchina.com
 cmpassport.com
 cn
 cn-smp-paymentservices.apple.com
+cn.download.nvidia.com
 cn.widevine.com
 cn163.net
 cnblogs.com
@@ -295,6 +296,7 @@ feng.com
 fengkongcloud.com
 fir.im
 firebase-settings.crashlytics.com
+focuschina.com
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -307,6 +309,7 @@ g2.gstatic.com
 g3.gstatic.com
 ganji.com
 ganjistatic1.com
+gcloudsvcs.com
 geetest.com
 geilicdn.com
 ghpym.com
@@ -356,6 +359,7 @@ gspe35-ssl.ls.apple.com
 gspe79-cn-ssl.ls.apple.com
 gstatic-cn.com
 gstaticadssl.l.google.com
+gstore.val.manlaxy.com
 gtimg.com
 gtm.oasisfeng.com
 guazi.com
@@ -503,6 +507,7 @@ log1.cmpassport.com
 luoo.net
 lvmama.com
 lxdns.com
+made-in-china.com
 maoyan.com
 mdn.open.wo.cn
 meilishuo.com
@@ -521,6 +526,7 @@ mgtv.com
 mi-img.com
 mi.com
 miaopai.com
+micstatic.com
 migucloud.com
 miguvideo.com
 miui.com
@@ -758,6 +764,7 @@ toutiaohao.com
 toutiaohao.net
 toutiaoimg.com
 toutiaopage.com
+trademessenger.com
 trip.com
 ttmeiju.com
 tudou.com
@@ -778,6 +785,7 @@ uxengine.net
 v-56.com
 valid.apple.com
 valid.origin-apple.com.akadns.net
+vemic.com
 videocc.net
 vip.com
 vipstatic.com
